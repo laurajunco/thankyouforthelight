@@ -1,0 +1,22 @@
+{
+  "name": "thankyouforthelight",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/thankyouforthelight/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurajunco/thankyouforthelight.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/laurajunco/thankyouforthelight#readme",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
